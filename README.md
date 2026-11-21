@@ -184,6 +184,4 @@ Máximo de cada janela de tamanho k. Lista vazia -> []. O(n).
 - [ ] Rodada 3 com problemas ainda mais difíceis
 - [ ] Gerar a tabela final em Markdown/CSV automaticamente
 
-## Licença
-
 Defina a licença do seu repositório (por exemplo, MIT).
